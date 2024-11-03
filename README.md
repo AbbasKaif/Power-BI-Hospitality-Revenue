@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category
+AmberQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AmberQ Grands are losing its market share and revenue in the luxury/business hotels category
 
 ## Task : 
 
@@ -41,11 +41,11 @@ You are a data analyst who has been provided with sample data to work on the fol
 ## Insights : 
 
 -  Mumbai generates the highest revenue (661 M) followed by Bangalore, Hyderabad and Delhi
--  AtliQ Exotica performs better compared to all 7 type of properties with 316 Million revenue, rating 3.6, occupancy percentage 57.2 % and cancellation rate as 24.4%
--  AtliQ Blu has the highest occupancy of 61.9 %
+-  AmberQ Exotica performs better compared to all 7 type of properties with 316 Million revenue, rating 3.6, occupancy percentage 57.2 % and cancellation rate as 24.4%
+-  AmberQ Blu has the highest occupancy of 61.9 %
 -  Week 29 recorded the highest revenue among all, which is 139.7 Million
 -  Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
--  AtliQ lost around 300 Million in cancellation
+-  AmberQ lost around 300 Million in cancellation
 -  Elite type rooms has the most booking and as well higher cancellation rate
 
     
