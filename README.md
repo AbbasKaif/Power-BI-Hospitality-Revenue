@@ -58,3 +58,8 @@ You are a data analyst who has been provided with sample data to work on the fol
 ## Link To Live Dashboard :
 
 [Revenue Inights 360 Power BI Dashboard - Kaif Abbas](https://app.powerbi.com/view?r=eyJrIjoiYmEwM2JkZjgtNzY1Ni00NmJjLTg5NzItYTA0NDYxZjQzZDhlIiwidCI6ImY5NjA5ZDEyLTcyYzgtNDZiZS05OWQ4LTYyN2U3YTYwYWIyMSJ9)
+
+## Video :
+
+![Walkthrough GIF](https://github.com/user-attachments/assets/39cc630c-15fb-4d1d-b9a7-f624ae246766)
+
