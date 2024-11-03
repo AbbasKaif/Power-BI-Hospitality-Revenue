@@ -47,6 +47,7 @@ You are a data analyst who has been provided with sample data to work on the fol
 -  Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 -  AtliQ lost around 300 Million in cancellation
 -  Elite type rooms has the most booking and as well higher cancellation rate
+
     
 ## Learnt things from this Project : 
 
@@ -54,3 +55,6 @@ You are a data analyst who has been provided with sample data to work on the fol
 -  Learnt, how to use bookmarks and selection for different purposes. Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection
 -  Tried using color palette and stick with that colors throughout the dashboard 
 
+## Link To Live Dashboard :
+
+[Revenue Inights 360 Power BI Dashboard - Kaif Abbas](https://app.powerbi.com/view?r=eyJrIjoiYmEwM2JkZjgtNzY1Ni00NmJjLTg5NzItYTA0NDYxZjQzZDhlIiwidCI6ImY5NjA5ZDEyLTcyYzgtNDZiZS05OWQ4LTYyN2U3YTYwYWIyMSJ9)
