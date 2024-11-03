@@ -1,4 +1,4 @@
-# Provide Insights to Revenue Team in the Hospitality Doamin
+# Provide Insights to Revenue Team in the Hospitality Domain
 
 #### Domain : Hospitality         Function : Revenue
 
@@ -16,21 +16,27 @@ You are a data analyst who has been provided with sample data to work on the fol
 
 ## Data Model 
 
-![2023-05-31T12_54_41](https://github.com/Siddarameshwaruh/PowerBI_Project-Revenue_Insights-Hosipitality_Domain/assets/127327782/1e0ef294-0c74-4ab8-b1d4-a8a1d8c23d1d)
+![Data Model](https://github.com/user-attachments/assets/cd02b221-f50f-4e2d-8716-020bd3e9beaf)
+
+
+
     
 ## General View 
 
-![2023-05-31T12_02_06](https://github.com/Siddarameshwaruh/PowerBI_Project-Revenue_Insights-Hosipitality_Domain/assets/127327782/5227fc14-c705-4633-867d-b0d476288385)
+![General View](https://github.com/user-attachments/assets/522896a6-1a06-45c2-bd4b-07b5c12cb25a)
+
 
 
 ## Monthly Analysis 
 
-![2023-05-31T12_05_38](https://github.com/Siddarameshwaruh/PowerBI_Project-Revenue_Insights-Hosipitality_Domain/assets/127327782/9e395a8b-7dc1-433d-b682-6946abd40604)
+
+![Monthly Analysis](https://github.com/user-attachments/assets/0d98fddc-9fd4-4921-abaa-80db61dbae56)
 
 
 ## Executive View 
 
-![2023-05-31T12_07_42](https://github.com/Siddarameshwaruh/PowerBI_Project-Revenue_Insights-Hosipitality_Domain/assets/127327782/1ad3df44-106c-400a-83df-b0f30a29eefc)
+![Executive View](https://github.com/user-attachments/assets/9e6f48b5-b4c3-467d-94fe-65d35030e58c)
+
 
 ## Insights : 
 
